@@ -1,0 +1,11 @@
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\obj\Debug\TelegramBotConsole.csprojResolveAssemblyReference.cache
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\obj\Debug\TelegramBotConsole.csproj.CoreCompileInputs.cache
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\bin\Debug\TelegramBotConsole.exe.config
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\bin\Debug\TelegramBotConsole.exe
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\bin\Debug\TelegramBotConsole.pdb
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\bin\Debug\Telegram.Bot.dll
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\bin\Debug\Telegram.Bot.xml
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\obj\Debug\TelegramBotConsole.exe
+C:\Users\quhct\Documents\Visual Studio 2017\Projects\TelegramBotConsole\TelegramBotConsole\obj\Debug\TelegramBotConsole.pdb
