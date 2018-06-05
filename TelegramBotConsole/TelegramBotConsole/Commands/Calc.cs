@@ -6,6 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Telegram.Bot.Types.ReplyMarkups;
 using TelegramBotConsole.Models;
+using Telegram.Bot.Types;
 
 namespace TelegramBotConsole.Commands
 {
@@ -14,7 +15,22 @@ namespace TelegramBotConsole.Commands
         public static void ReceiveMessage(int Id)
         {
             YourBot.Bot.SendTextMessageAsync(Id,"",replyMarkup: new ReplyKeyboardRemove());
-            YourBot.Bot.SendTextMessageAsync(Id, "С радостью решу! Напиши мне уравнение...");
+            YourBot.Bot.SendTextMessageAsync(Id, "С радостью решу! Но я еще не особо умный помощник, только учусь.");
+            YourBot.Bot.SendTextMessageAsync(Id, "Давай выберим тип уравнения...");
+            var button = new ReplyKeyboardMarkup();
+            button.Keyboard =
+            new KeyboardButton[][]
+            {
+                new KeyboardButton[]
+                {
+                    new KeyboardButton("a + b"),
+                    new KeyboardButton("a - b")
+                },
+                new KeyboardButton[]
+                {
+                    new KeyboardButton("a * b")
+                }
+            };
         }
     }
 }
